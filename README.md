@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hey Everyone 👋
 
-<!--
-**Juliushtg24/Juliushtg24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nice To meet you my name is **Julius Martin Hamonangan Hutagaol**
 
-Here are some ideas to get you started:
+I am a **Student** from **President University**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am **Front End Developer** and **Machine Learning Developer** that has been trained from dicoding
+(https://www.dicoding.com/users/juliushut24).\
+
+I have experience skill in Python languange specialization [certification from Rice University](https://www.coursera.org/account/accomplishments/specialization/CUZCMTQTFF2K)
+
+If you are interested to connect with me, you can go through this link
+[LinkedIn](https://www.linkedin.com/in/julius-martin-34a63021b/)
+
