@@ -1,14 +1,16 @@
 # 👋 Hello, I'm Julius Martin Hamonangan Hutagaol
 
-🎓 I'm a student at **President University** with a strong passion for **Front-End Development** and **Machine Learning**.
+💼 Currently working as a **Web Developer at [Adlive.id](https://adlive.id/)**, where I focus on building scalable, high-performance web applications using modern JavaScript frameworks and clean architecture principles.
+
+🎓 I'm also a student at **President University** with a strong passion for **Front-End Development** and **Machine Learning**.
 
 🔧 I’ve been trained through **Dicoding** in both front-end and machine learning tracks — [View my profile](https://www.dicoding.com/users/juliushut24)
 
 📜 I also hold a [Python Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/CUZCMTQTFF2K) from **Rice University (via Coursera)**.
 
-🌐 I have hands-on experience building websites using **Laravel**, **React.js**, and modern web technologies. I'm always exploring new tools to improve user experience and product performance.
+🌐 Experienced in developing full-stack applications with technologies like **React**, **TypeScript**, **AdonisJS**, **React Query**, **Tailwind CSS**, and **PostgreSQL**, following **microservice architecture** principles.
 
-📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/julius-martin-34a63021b/) — I'm always open to collaboration, networking, or just a friendly tech chat!
+📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/julius-martin-34a63021b/) — I’m always open to collaboration, networking, and tech discussions!
 
 ---
 
@@ -16,10 +18,14 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" />
+  <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript" />
   <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/-React_Query-black?style=flat-square&logo=react-query" />
+  <img src="https://img.shields.io/badge/-AdonisJS-black?style=flat-square&logo=adonisjs" />
   <img src="https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql" />
+  <img src="https://img.shields.io/badge/-Microservices-black?style=flat-square&logo=microgenetics" />
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
   <img src="https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel" />
 </p>
 
@@ -44,13 +50,14 @@
 
 ### 🔍 Current Interests
 
-- Building scalable and responsive web applications
-- Exploring deep learning and time-series forecasting
-- Open-source collaboration and contributions
-- UI/UX enhancement with Tailwind CSS and Framer Motion
+- Scalable and maintainable **web architecture**
+- Building APIs with **AdonisJS** and **PostgreSQL**
+- Front-end optimization using **React Query** and **TypeScript**
+- Learning **microservice patterns** and **system design**
+- Enhancing UI/UX with **Tailwind CSS** and **Framer Motion**
 
 ---
 
 ### ☕ Fun Fact
 
-> I love solving problems through code — whether it's building a feature or understanding a new machine learning algorithm. I'm always ready to **learn, build, and improve**.
+> I love solving real-world problems through code — whether it's crafting a smooth user experience, building a new service, or exploring a new framework. I’m always ready to **learn, build, and grow**.
