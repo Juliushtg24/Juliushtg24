@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Julius Martin Hamonangan Hutagaol
 
-💼 Currently working as a **Web Developer at [Adlive.id](https://adlive.id/)**, where I focus on building scalable, high-performance web applications using modern JavaScript frameworks and clean architecture principles.
+💼 Currently working as a **Web Developer at [WMDeveloper](https://wmdeveloper.com/)**, where I focus on building scalable, high-performance web applications using modern JavaScript frameworks and clean architecture principles.
 
 🎓 I'm also a student at **President University** with a strong passion for **Front-End Development** and **Machine Learning**.
 
